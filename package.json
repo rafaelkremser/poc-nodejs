@@ -1,0 +1,12 @@
+{
+    "name": "poc-nodejs",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Rafael Kremser",
+    "license": "ISC",
+    "description": "A repository for study Node.JS with Rocketseat.",
+    "type": "module",
+    "scripts": {
+        "start": "node --watch src/server.js"
+    }
+}
